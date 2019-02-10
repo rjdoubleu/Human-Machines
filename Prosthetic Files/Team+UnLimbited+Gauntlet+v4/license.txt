@@ -1,0 +1,9 @@
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+Checksum info (MD5)
+MD5 (3pin_tensioner_box.stl) = 05aa5e47203e04a5eaf5436308ad4120
+MD5 (gauntlet v4.stl) = 5f217d6f4f3a8021b41b1e756b70d118
+MD5 (gripper_box.stl) = 99b6a544343820bb96df252ca4127896
+MD5 (rounded_tensioner_pin.stl) = 7c0daec9f1260bdc9890c51706362732
+MD5 (tensioner_box.stl) = 0b00c8e3258fa8da272d7d5c600b7e6f
