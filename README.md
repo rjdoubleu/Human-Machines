@@ -11,3 +11,5 @@ Human Machines is the 3D Printed Prosthetics Division of PantherHackers at Georg
 
 ## GSURC Spring 2019
 We presented our research at GSURC, outlining a pipeline for developing prosthetics using 3D scanning and design software.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSepFSpvsOGMEBi4x1x9nED-JoEK0sSh9HKbhASJAP49sN4VWbse7NWZzT25Tigtg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2560" height="1469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
